@@ -1,0 +1,1 @@
+No Content: webpack://MyOkta.[name]/lib/init-iframe.js
